@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Creeper&#39;s Code</title>
-    <link>https://thecreeperscode.com/</link>
-    <description>Recent content on The Creeper&#39;s Code</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://thecreeperscode.com/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Creeper's Code</title><link>https://creepermagnet.github.io/tcc-redirect-website/</link><description>Recent content on The Creeper's Code</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://creepermagnet.github.io/tcc-redirect-website/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
