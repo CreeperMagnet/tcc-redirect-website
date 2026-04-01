@@ -1,0 +1,12 @@
+{{define "content"}}
+{{$logo := resources.Get "logo.svg"}}
+{{$same_code_new_name := resources.Get "same_code_new_name.png"}}
+
+<div class="images">
+  <img class="logo" src="{{$logo.RelPermalink}}"/>
+  <img class="image-text" src="{{$same_code_new_name.RelPermalink}}"/>
+</div>
+<div class="text">
+  {{.Content}}
+</div>
+{{end}}

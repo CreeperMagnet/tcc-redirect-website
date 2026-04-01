@@ -1,0 +1,30 @@
+{
+  "baseURL": "https://thecreeperscode.com/",
+  "languageCode": "en-us",
+  "title": "The Creeper's Code",
+  "markup": {
+    "goldmark": {
+      "extensions": {
+        "extras": {
+          "delete": {
+            "enable": true
+          },
+          "insert": {
+            "enable": true
+          },
+          "mark": {
+            "enable": true
+          },
+          "superscript": {
+            "enable": true
+          }
+        }
+      }
+    }
+  },
+  "disableKinds": [
+    "taxonomy"
+  ],
+  "taxonomies": {},
+  "publishDir": "docs"
+}
